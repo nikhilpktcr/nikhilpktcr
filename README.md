@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Nikhil P K</h1>
 <h3 align="center">Javascript Engineer</h3>
+<img align = "right" alt="code" width="400"src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpktcr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpktcr" /> </p>
 
