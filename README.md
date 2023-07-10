@@ -2,17 +2,17 @@
 <h3 align="center">Javascript Engineer</h3>
 <img align = "right" alt="code" width="400"src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpktcr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpktcr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilpktcr" alt="nikhilpktcr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/xz" target="blank"><img src="https://img.shields.io/twitter/follow/xz?logo=twitter&style=for-the-badge" alt="xz" /></a> </p>
-
 - 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **Nodejs, expressjs, SQL, Sequelize**
 
 - 📫 How to reach me **nikhil.pk.connect@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpktcr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpktcr" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilpktcr" alt="nikhilpktcr" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/xz" target="blank"><img src="https://img.shields.io/twitter/follow/xz?logo=twitter&style=for-the-badge" alt="xz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
