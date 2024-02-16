@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikhil P K
 ==================================================================================================================================
 
-Javascript Engineer | Nodejs Developer
+Javascript Full Stack Engineer 
 --------------------------------------
 
-With nearly 6 years of experience in web development, my expertise lies primarily in backend development. I possess practical knowledge in utilizing ExpressJS, NodeJS, JavaScript, SQL, and ORM-based database management. My passion revolves around creating scalable and top-notch applications that cater to the requirements of contemporary users. I constantly maintain an enthusiasm for acquiring new knowledge and staying updated with the latest technologies and methodologies in the web development realm. I strongly believe in the power of collaboration and teamwork to achieve exceptional outcomes. Moreover, I am dedicated to crafting user-friendly and efficient applications.
+Professional with 6+ years of experience in software engineering and application development. Expertise in Javascript and its technologies, implementation, integration and deployment of full stack applications
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nikhil.pk.connect@gmail.com](mailto:nikhil.pk.connect@gmail.com)
-* 🧠  I'm learning Reactjs
-* 🤝  I'm open to collaborating on Backend Projects | Beginner Level Frontend Projects
+* 🧠  I'm learning Nextjs , python
+* 🤝  I'm open to collaborating on fullstack project
 * ⚡  Practice makes PERFECT!!
 
 ### Skills
