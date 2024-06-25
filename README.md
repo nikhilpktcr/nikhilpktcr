@@ -6,7 +6,7 @@ Javascript Full Stack Engineer
 
 Professional with 6+ years of experience in software engineering and application development. Expertise in Javascript and its technologies, implementation, integration and deployment of full stack applications
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Sweden
 * ✉️  You can contact me at [nikhil.pk.connect@gmail.com](mailto:nikhil.pk.connect@gmail.com)
 * 🧠  I am learning ReactJs and NestJs Now
 * 🤝  I'm open to collaborating on fullstack project
