@@ -8,8 +8,6 @@ Professional with 6+ years of experience in software engineering and application
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [nikhil.pk.connect@gmail.com](mailto:nikhil.pk.connect@gmail.com)
-* 🧠  I am learning ReactJs and NestJs Now
-* 🤝  I'm open to collaborating on fullstack project
 * ⚡  Practice makes PERFECT!!
 
 ### Skills
