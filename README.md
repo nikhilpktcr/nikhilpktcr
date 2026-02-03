@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Javascript Full Stack Engineer 
 --------------------------------------
 
-Professional with 7 years of experience in software engineering and application development. Expertise in Javascript and its technologies, implementation, integration and deployment of full stack applications
+Professional with 8 years of experience in software engineering and application development. Expertise in Javascript and its technologies, implementation, integration and deployment of full stack applications
 
-* 🌍  I'm based in Sweden
+* 🌍  I'm based in India
 * ✉️  You can contact me at [nikhil.pk.connect@gmail.com](mailto:nikhil.pk.connect@gmail.com)
 * ⚡  Practice makes PERFECT!!
 
